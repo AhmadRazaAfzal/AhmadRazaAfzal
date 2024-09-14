@@ -24,8 +24,7 @@
 | Stack | Tools |
 |---|---|
 |**Resonsive Designs**| SCSS / TailwindCSS / MUI,  Core CSS, @keyframes|
-|**Javascript**| React.js, Nest.js|
-|**API**|Fetch, Async Await|
+|**Javascript**| Javascript|
 
  </div>
 <br/>
