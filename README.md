@@ -33,7 +33,7 @@
 
 <p align="center">
  
-![Node.js ](https://img.shields.io/badge/node.js-6DA55F?logo=node.js&logoColor=white)
+![Node.js ](https://www.w3schools.com/TAGS/default.asp)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?logo=react&logoColor=%2361DAFB)
  
  </p>
