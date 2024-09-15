@@ -1,15 +1,15 @@
 <h1 align="center">Hi, I am Ahmad Raza </a> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px"></h1>
 
-<h3 align="center">An Enthousiast Frontend Web Developer</h3>
+<h3 align="center">UI/UX And Frontend Web Developer</h3>
 
  
  <br/>
  
  <div align="center">
 
-🌱 I’m currently learning **Redux and React.js Integration**
+🌱 I’m currently working in **RedExpo Software Company**
 
-💬 Ask me about **Javascript, React.js, Next.js, Shadcn/ui Tailwind, Bootstrap, Animations, SCSS, Meterial UI**
+💬 Ask me about **Javascript, React/ui,  Tailwind, Bootstrap, Animations, SCSS, Meterial UI **
 
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> What I do: **Frontend Web Development**, **Responsive Designs** and **Integration**
   
