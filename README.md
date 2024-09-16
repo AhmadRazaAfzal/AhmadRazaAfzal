@@ -25,10 +25,13 @@
 |---|---|
 |**Resonsive Designs**| SCSS / TailwindCSS / MUI,  Core CSS, @keyframes|
 |**Javascript**| Javascript|
-|**BOOTWRAP**|BOOTSWRAP|
-|**TAILWIND CSS**|TAILWIND CSS|
-|**HTML**| html|
-|**CSS**| CSS|
+|**REACT.JS**|REACT.JS UI WITH COMPONENTS|
+|**WEBFLOW**| RESPONSIVE WEB DESIGN IN WEBFLOW |
+|**TAILWIND CSS**|TAILWIND CSS UTILITIES CLASESS|
+|**CSS**| CSS GOOD KNOWLADGE|
+|**HTML**| html GOOG KNOWLADGE|
+|**UI/UX**| UI/UX RESPONSIVE DESIGN|
+|**FIGMA**| FIGMA TO HTML |
 
  </div>
 <br/>
