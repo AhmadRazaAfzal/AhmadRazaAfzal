@@ -31,6 +31,7 @@
 |**TAILWIND CSS**|TAILWIND CSS Utilities Clasess|
 |**WEBFLOW**| RESPONSIVE WEB DESIGN IN WEBFLOW |
 |**FIGMA**| FIGMA TO HTML |
+|**NMP**| Node Pakages Manager |
 |**Resonsive Designs**| SCSS / TailwindCSS / MUI,  Core CSS, @keyframes|
 
 
