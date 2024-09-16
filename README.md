@@ -9,7 +9,7 @@
 
 🌱 I’m currently working in **RedExpo Software Company**
 
-💬 Ask me about **Javascript, React/ui,  Tailwind, Bootstrap, Animations, SCSS, Meterial UI **
+💬 Ask me about ** Html, CSS, Javascript, React/ui, Webflow,  Tailwind css, Bootstrap, Figma, Animations, SCSS, Meterial UI **
 
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> What I do: **Frontend Web Development**, **Responsive Designs** and **Integration**
   
