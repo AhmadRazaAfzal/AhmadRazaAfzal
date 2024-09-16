@@ -11,7 +11,7 @@
 
 💬 Ask me about ** Html, CSS, Javascript, React/ui, Webflow,  Tailwind css, Bootstrap, Figma, Animations, SCSS, Meterial UI **
 
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> What I do: **Frontend Web Development**, **Responsive Designs** and **Integration**
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> What I do: **Frontend Web Development**, **Responsive Designs** and **Integration with ui/ux**
   
 </div>
  
