@@ -25,6 +25,10 @@
 |---|---|
 |**Resonsive Designs**| SCSS / TailwindCSS / MUI,  Core CSS, @keyframes|
 |**Javascript**| Javascript|
+|**BOOTWRAP**|BOOTSWRAP|
+|**TAILWIND CSS**|TAILWIND CSS|
+|**HTML**| html|
+|**CSS**| CSS|
 
  </div>
 <br/>
