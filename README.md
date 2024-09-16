@@ -12,14 +12,9 @@
 💬 Ask me about ** Html, CSS, Javascript, React/ui, Webflow,  Tailwind css, Bootstrap, Figma, Animations, SCSS, Meterial UI **
 
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> What I do: **Frontend Web Development**, **Responsive Designs** and **Integration with ui/ux**
-
-
-
-  
 </div>
 
  <dt>ABOUT</dt>
-<br/>
 <dd>A UI/UX And Frontend Developer** focuses on creating user interfaces (UI) and enhancing user experiences (UX) for websites and applications. Their role blends design and coding, ensuring that digital products are visually appealing, easy to navigate, and responsive. They work closely with designers and backend developers to implement design elements using languages like HTML, CSS, JavaScript, and frameworks like React or Angular. Their goal is to deliver seamless, efficient, and user-friendly interfaces that meet both aesthetic and functional requirements. They prioritize accessibility, performance, and user-centered design principles.</dd>
 <br/>
 
