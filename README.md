@@ -23,15 +23,17 @@
 
 | Stack | Tools |
 |---|---|
-|**Resonsive Designs**| SCSS / TailwindCSS / MUI,  Core CSS, @keyframes|
+|**HTML**| HTML With GOOG Knowladge|
+|**CSS**| CSS With Good Knowladge|
 |**Javascript**| Javascript|
-|**REACT.JS**|REACT.JS UI WITH COMPONENTS|
+|**REACT.JS**|REACT.JS UI With Components|
+|**UI/UX**| UI/UX Responsive Design|
+|**TAILWIND CSS**|TAILWIND CSS Utilities Clasess|
 |**WEBFLOW**| RESPONSIVE WEB DESIGN IN WEBFLOW |
-|**TAILWIND CSS**|TAILWIND CSS UTILITIES CLASESS|
-|**CSS**| CSS GOOD KNOWLADGE|
-|**HTML**| html GOOG KNOWLADGE|
-|**UI/UX**| UI/UX RESPONSIVE DESIGN|
 |**FIGMA**| FIGMA TO HTML |
+|**Resonsive Designs**| SCSS / TailwindCSS / MUI,  Core CSS, @keyframes|
+
+
 
  </div>
 <br/>
