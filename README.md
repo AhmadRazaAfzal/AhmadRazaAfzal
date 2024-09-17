@@ -46,11 +46,6 @@
 
 
 <p align="center"> 
- 
 <img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_1280.png" width="30"> 
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkdDy1MPyAklifM98twCxSuRj7EVJPO0cmHg&s" width="30"> 
-
-![html]()
-
- 
  </p>
