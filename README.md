@@ -46,8 +46,10 @@
 
 
 <p align="center"> 
+ 
+<img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_1280.png" width="30"> 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?logo=react&logoColor=%2361DAFB)
-![html](https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_1280.png)
+![html]()
 
  
  </p>
