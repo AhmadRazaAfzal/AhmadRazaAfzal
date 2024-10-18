@@ -7,7 +7,7 @@
  
  <div align="center">
 
-🌱 I’m currently working in **RedExpo Software Company**
+
 
 💬 Ask me about ** Html, CSS, Javascript, React/ui, Webflow,  Tailwind css, Bootstrap, Figma, Animations, SCSS, Meterial UI **
 
