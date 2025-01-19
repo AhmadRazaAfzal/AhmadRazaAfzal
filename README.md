@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I am Ahmad Raza </a> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px"></h1>
 
-<h3 align="center"> Frontend Web Developer</h3>
+<h3 align="center"> Flutter Dart Developer Frontend Web Developer</h3>
 
  
  <br/>
@@ -9,7 +9,7 @@
 
 
 
-💬 Ask me about ** Html, CSS, Javascript, React/ui, Webflow,  Tailwind css, Bootstrap, Figma, Animations, SCSS, Meterial UI **
+💬 Ask me about ** Flutter, Dart, Firebase  Html, CSS, Javascript, React/ui,   Tailwind css, Bootstrap, Figma, Animations, SCSS, Meterial UI **
 
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> What I do: **Frontend Web Development**, **Responsive Designs** and **Integration with ui/ux**
 </div>
